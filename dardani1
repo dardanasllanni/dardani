@@ -1,0 +1,781 @@
+<!doctype html>
+<html>
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, maximum-scale=1">
+
+	<title>DardanAsllani</title>
+ 	<link rel="icon" href="images/poo.png" sizes="32x32" type="image/png">
+	<link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
+	<link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,800italic,700italic,600italic,400italic,300italic,800,700,600' rel='stylesheet' type='text/css'>
+
+	<link href="css/bootstrap.css" rel="stylesheet" type="text/css">
+	<link href="css/style.css" rel="stylesheet" type="text/css">
+	<link href="css/font-awesome.css" rel="stylesheet" type="text/css">
+	<link href="css/responsive.css" rel="stylesheet" type="text/css">
+	<link href="css/magnific-popup.css" rel="stylesheet" type="text/css">
+	<link href="css/animate.css" rel="stylesheet" type="text/css">
+
+	<script type="text/javascript" src="js/jquery.1.8.3.min.js"></script>
+	<script type="text/javascript" src="js/bootstrap.js"></script>
+	<script type="text/javascript" src="js/jquery-scrolltofixed.js"></script>
+	<script type="text/javascript" src="js/jquery.easing.1.3.js"></script>
+	<script type="text/javascript" src="js/jquery.isotope.js"></script>
+	<script type="text/javascript" src="js/wow.js"></script>
+	<script type="text/javascript" src="js/classie.js"></script>
+	<script type="text/javascript" src="js/magnific-popup.js"></script>
+	<script src="contactform/contactform.js"></script>
+</head>
+
+<body>
+	<header class="header" id="header">
+		<!--header-start-->
+		<div class="container">
+			<figure class="logo animated fadeInDown delay-07s">
+				<a href=""><img src="images/llog.png" alt="" style="max-width: 175%;margin-left:-45px;margin-bottom: -25px; cursor: default;"></a>
+			</figure>
+			<h1 class="animated fadeInDown delay-07s">Welcome To My Webpage</h1>
+			<ul class="we-create animated fadeInUp delay-1s">
+				<li>I am very grateful for your attention and the fact that you choose my page to give your interest at.</li>
+			</ul>
+			<a class="link animated fadeInUp delay-1s servicelink" href="#service">Get Started</a>
+		</div>
+	</header>
+	<nav class="main-nav-outer" id="test">
+		<div class="container" style="height: 125px; margin-top: -30px;">
+			<ul class="main-nav">
+				<li><a href="#header">Home</a></li>
+				<li><a href="#service">About Me</a></li>
+				<li style="margin-right: 26px;"><a href="#Portfolio">My Favorite</a></li>
+				<li class="small-logo" style="padding: 0;"><a href="#header" style="margin: 0;"><img src="images/llog3.png" alt="" style="margin-left: -51px; max-width: 80%; margin-right: 0px; "></a></li>
+				<li><a href="#client" style="margin-left: -3px;">Quote</a></li>
+				<li><a href="#team">Actors</a></li>
+				<li><a href="#exercise">Contact &amp; Exercises</a></li>
+			</ul>
+			<a class="res-nav_click" href="#"><i class="fa fa-bars"></i></a>
+		</div>
+	</nav>
+
+
+
+	<section class="main-section" id="service">
+		<div class="container">
+			<h2>About Me</h2>
+			<h6>Some of the things that i like the most.</h6>
+			<div class="row">
+				<div class="col-lg-4 col-sm-6 wow fadeInLeft delay-05s">
+					<div class="service-list">
+						<div class="service-list-col1">
+							<i class="fa fa-paw"></i>
+						</div>
+						<div class="service-list-col2">
+							<h3>cats &amp; dogs</h3>
+							<p>I really love cats and dogs. I think they are so cute and i would love to have one in the future.</p>
+						</div>
+					</div>
+					<div class="service-list">
+						<div class="service-list-col1">
+							<i class="fa fa-gear"></i>
+						</div>
+						<div class="service-list-col2">
+							<h3>developing</h3>
+							<p>I also really love developing. I think i'm better at Back-End, but i also like Front-End too.</p>
+						</div>
+					</div>
+					<div class="service-list">
+						<div class="service-list-col1">
+							<i class="fa fa-apple"></i>
+						</div>
+						<div class="service-list-col2">
+							<h3>Apple Inc.</h3>
+							<p>My favorite electronic company is Apple.Apple Inc. is an American multinational technology company headquartered in Cupertino, California, that designs, develops, and sells consumer electronics, computer software, and online services. </p>
+						</div>
+					</div>
+					<div class="service-list">
+						<div class="service-list-col1">
+							<i class="fa fa-medkit"></i>
+						</div>
+						<div class="service-list-col2">
+							<h3>Medicine</h3>
+							<p>Before CS i really liked being a doctor.The word medicin means the science or practice of the diagnosis, treatment, and prevention of disease (in technical use often taken to exclude surgery).</p>
+						</div>
+					</div>
+				</div>
+				<figure class="col-lg-8 col-sm-6  text-right wow fadeInUp delay-02s">
+					<div class="photos">
+						<img src="images/2772.png" class="photo-dardan" alt="" style="    width: 390px !important;
+						margin-top: -33px !important;
+						margin-right: 90px !important;">
+						<img src="images/dardani.png" class="photo-dardan2" alt="" style="width: 398px !important; margin-top: 0px !important; margin-left: -8px !important;">
+					</div>
+				</figure>
+
+			</div>
+		</div>
+	</section>
+
+
+
+	<section class="main-section alabaster">
+		<div class="container">
+			<div class="row">
+				<figure class="col-lg-5 col-sm-4 wow fadeInLeft">
+					<img src="images/zz.png" alt="" style="width: 50%; margin-left: 70px;">
+				</figure>
+				<div class="col-lg-7 col-sm-8 featured-work">
+					<h2>some other hobbies</h2>
+					<P class="padding-b">I truely have a lot of hobbies and i enjoy all of them pretty much.</P>
+					<div class="featured-box">
+						<div class="featured-box-col1 wow fadeInRight delay-02s">
+							<i class="fa fa-magic"></i>
+						</div>
+						<div class="featured-box-col2 wow fadeInRight delay-02s">
+							<h3>magic</h3>
+							<p>When i was little, my magic was one of my hobbies. I liked every thing about it and all the myths about it. Magic is a category into which have been placed various beliefs and practices considered separate from both religion and science. </p>
+						</div>
+					</div>
+					<div class="featured-box">
+						<div class="featured-box-col1 wow fadeInRight delay-04s">
+							<i class="fa fa-gift"></i>
+						</div>
+						<div class="featured-box-col2 wow fadeInRight delay-04s">
+							<h3>Gifts</h3>
+							<p>A gift or a present is an item given to someone without the expectation of payment or anything in return. </p>
+						</div>
+					</div>
+					<div class="featured-box">
+						<div class="featured-box-col1 wow fadeInRight delay-06s">
+							<i class="fa fa-dashboard"></i>
+						</div>
+						<div class="featured-box-col2 wow fadeInRight delay-06s">
+							<h3>Speed</h3>
+							<p>This fascination with “fast” all began when prehistoric humans invented the wheel. Even before that, humans were thrilled by speed, but since there was no external invention or agency that could make humans “go fast”, all they could do was marvel at fast-flying birds and animals, or the speed at which they could throw something through the air. </p>
+						</div>
+					</div>
+					<a class="Learn-More" href="#">Learn More</a>
+				</div>
+			</div>
+		</div>
+	</section>
+
+
+
+	<section class="main-section paddind" id="Portfolio">
+		<div class="container">
+			<h2>Favoured</h2>
+			<h6>Here are some of my favorite "artistic" things now days.</h6>
+			<div class="portfolioFilter">
+				<ul class="Portfolio-nav wow fadeIn delay-02s">
+					<li><a href="#" data-filter="*" class="current">All</a></li>
+					<li><a href="#" data-filter=".musicalbum">Music Albums</a></li>
+					<li><a href="#" data-filter=".tvshow">TV Shows</a></li>
+					<li><a href="#" data-filter=".movie">Movies</a></li>
+				</ul>
+			</div>
+
+		</div>
+		<div class="portfolioContainer wow fadeInUp delay-04s">
+			<div class=" Portfolio-box musicalbum">
+				<a href="images/ts.png"><img src="images/ts.png" alt="" style="object-fit: cover; height: 74.8%;"></a>
+				<h3>Music Album</h3>
+				<p>Travis Scott</p>
+			</div>
+			<div class="Portfolio-box musicalbum">
+				<a href="images/id.png"><img src="images/id.png" alt="" style="object-fit: cover; height: 74.8%;"></a>
+				<h3>Music Album</h3>
+				<p>Imagine Dragons</p>
+			</div>
+			<div class=" Portfolio-box musicalbum">
+				<a href="images/emin.png"><img src="images/emin.png" alt="" style="object-fit: cover;"></a>
+				<h3>Music Album</h3>
+				<p>Eminem</p>
+			</div>
+			<div class=" Portfolio-box tvshow">
+				<a href="images/luc.png"><img src="images/luc.png" alt=""></a>
+				<h3>TV Show</h3>
+				<p>Lucifer</p>
+			</div>
+			<div class=" Portfolio-box tvshow">
+				<a href="images/bb.png"><img src="images/bb.png" alt=""></a>
+				<h3>TV Show</h3>
+				<p>Breaking Bad</p>
+			</div>
+			<div class=" Portfolio-box movie">
+				<a href="images/lucy.png"><img src="images/lucy.png" alt="" style="height: 75%;"></a>
+				<h3>Movie</h3>
+				<p>Lucy</p>
+			</div>
+		</div>
+	</section>
+	<!--main-section-end-->
+
+
+	<section class="main-section client-part" id="client">
+		<!--main-section client-part-start-->
+		<div class="container">
+			<b class="quote-right wow fadeInDown delay-03"><i class="fa fa-quote-right"></i></b>
+			<div class="row">
+				<div class="col-lg-12">
+					<p class="client-part-haead wow fadeInDown delay-05">“Live as if you were to die tomorrow. Learn as if you were to live forever.”</p>
+				</div>
+			</div>
+			<ul class="client wow fadeIn delay-05s">
+				<li><a href="#">
+					<img src="images/gandhi.png" alt="" style="width: 160px; height: 170px;">
+					<h3>Mahatma Gandhi</h3>
+					<span>Indian lawyer</span>
+				</a></li>
+			</ul>
+		</div>
+	</section>
+	<!--main-section client-part-end-->
+	<!--c-logo-part-end-->
+	<section class="main-section team" id="team">
+		<!--main-section team-start-->
+		<div class="container">
+			<h2>Actors</h2>
+			<h6>Here are some of my favorite actors worldwide.</h6>
+			<div class="team-leader-block clearfix">
+				<div class="team-leader-box">
+					<div class="team-leader wow fadeInDown delay-03s">
+						<div class="team-leader-shadow"></div>
+						<img src="images/ww.png" alt="" style="
+						height: 300px;
+						width: 300px;
+						">
+					</div>
+					<h3 class="wow fadeInDown delay-03s">Bryan Cranston</h3>
+					<span class="wow fadeInDown delay-03s">American actor</span>
+					<p class="wow fadeInDown delay-03s">Bryan Lee Cranston is an American actor, director, producer and screenwriter. He is best known for playing Walter White on the AMC series Breaking Bad.</p>
+				</div>
+				<div class="team-leader-box">
+					<div class="team-leader  wow fadeInDown delay-06s">
+						<div class="team-leader-shadow"></div>
+						<img src="images/tom.png" alt="" style="
+						height: 300px;
+						width: 300px;
+						">
+					</div>
+					<h3 class="wow fadeInDown delay-06s">Tom Ellis</h3>
+					<span class="wow fadeInDown delay-06s">British actor</span>
+					<p class="wow fadeInDown delay-06s">Thomas John Ellis is a British actor born in Cardiff Wales, known for his roles as Gary Preston in the BBC sitcom Miranda and Lucifer Morningstar in the American series Lucifer. </p>
+				</div>
+				<div class="team-leader-box">
+					<div class="team-leader wow fadeInDown delay-09s">
+						<div class="team-leader-shadow"></div>
+						<img src="images/mr.png" alt="" style="
+						height: 300px;
+						width: 300px;
+						">
+					</div>
+					<h3 class="wow fadeInDown delay-09s">Margot Robbie</h3>
+					<span class="wow fadeInDown delay-09s">Australian actor</span>
+					<p class="wow fadeInDown delay-09s">Margot Elise Robbie is an Australian actress and film producer. She has received nominations for two Academy Awards and five BAFTA Awards.</p>
+				</div>
+			</div>
+		</div>
+	</section>
+
+
+
+	<section class="business-talking" id="exercise">
+		<div class="container">
+			<h2>Exercises</h2>
+		</div>
+	</section>
+	<div class="content-block" id="testimonials">
+		<header class="block-heading cleafix text-center" style="margin: 50px 0;">
+			<h1>Assignments</h1>
+		</header>
+		<div class="accordion col-8 mx-auto" id="accordionExample" style="display: flex; flex-direction: row; margin:0 50px;">
+			<div class="col-md-4">
+				<div class="card">
+				<div class="card-header" id="headingOne">
+					<h2 class="mb-0">
+						<button class="btn assigments" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+							Chapter 2
+						</button>
+					</h2>
+				</div>
+
+				<div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
+					<div class="card-body">
+						<a href="CHAPTER/chapter2/contact.html" target="_blank" class="btn btn-primary m-1">Contact</a>
+						<a href="CHAPTER/chapter2/contact2.html" target="_blank" class="btn btn-primary m-1">Contact 2</a>
+						<a href="CHAPTER/chapter2/form.html" target="_blank" class="btn btn-primary m-1">from</a>
+						<a href="CHAPTER/chapter2/form2.html" target="_blank" class="btn btn-primary m-1">form2</a>
+						<a href="CHAPTER/chapter2/heading.html" target="_blank" class="btn btn-primary m-1">heading</a>
+						<a href="CHAPTER/chapter2/internal.html" target="_blank" class="btn btn-primary m-1">internal</a>
+						<a href="CHAPTER/chapter2/links.html" target="_blank" class="btn btn-primary m-1">links</a>
+						<a href="CHAPTER/chapter2/links2.html" target="_blank" class="btn btn-primary m-1">links2</a>
+						<a href="CHAPTER/chapter2/list.html" target="_blank" class="btn btn-primary m-1">list</a>
+						<a href="CHAPTER/chapter2/main.html" target="_blank" class="btn btn-primary m-1">main</a>
+						<a href="CHAPTER/chapter2/meta.html" target="_blank" class="btn btn-primary m-1">meta</a>
+						<a href="CHAPTER/chapter2/nav.html" target="_blank" class="btn btn-primary m-1">nav</a>
+						<a href="CHAPTER/chapter2/picture.html" target="_blank" class="btn btn-primary m-1">picture</a>
+						<a href="CHAPTER/chapter2/table1.html" target="_blank" class="btn btn-primary m-1">table1</a>
+						<a href="CHAPTER/chapter2/table2.html" target="_blank" class="btn btn-primary m-1">table2</a>
+					</div>
+				</div>
+			</div>
+			<div class="card">
+				<div class="card-header" id="headingTwo">
+					<h2 class="mb-0">
+						<button class="btn assigments collapsed" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+							Chapter 3
+						</button>
+					</h2>
+				</div>
+				<div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
+					<div class="card-body">
+						<a href="CHAPTER/chapter3/autocomplete.html" target="_blank" class="btn btn-primary m-1">autocomplete</a>
+						<a href="CHAPTER/chapter3/sectionelements.html" target="_blank" class="btn btn-primary m-1">sectionelements</a>
+						<a href="CHAPTER/chapter3/newforminputtypes.html" target="_blank" class="btn btn-primary m-1">newforminputtypes</a>
+					</div>
+				</div>
+			</div>
+			<div class="card">
+				<div class="card-header" id="headingThree">
+					<h2 class="mb-0">
+						<button class="btn assigments collapsed" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+							Chapter 4
+						</button>
+					</h2>
+				</div>
+				<div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
+					<div class="card-body">
+						<a href="CHAPTER/chapter4/advanced.html" target="_blank" class="btn btn-primary m-1">advanced</a>
+						<a href="CHAPTER/chapter4/background.html" target="_blank" class="btn btn-primary m-1">background</a>
+						<a href="CHAPTER/chapter4/borders.html" target="_blank" class="btn btn-primary m-1">borders</a>
+						<a href="CHAPTER/chapter4/dropdown.html" target="_blank" class="btn btn-primary m-1">dropdown</a>
+						<a href="CHAPTER/chapter4/embedded.html" target="_blank" class="btn btn-primary m-1">embedded</a>
+						<a href="CHAPTER/chapter4/external.html" target="_blank" class="btn btn-primary m-1">external</a>
+						<a href="CHAPTER/chapter4/floating.html" target="_blank" class="btn btn-primary m-1">floating</a>
+						<a href="CHAPTER/chapter4/inline.html" target="_blank" class="btn btn-primary m-1">inline</a>
+						<a href="CHAPTER/chapter4/mediatypes.html" target="_blank" class="btn btn-primary m-1">mediatypes</a>
+						<a href="CHAPTER/chapter4/positioning.html" target="_blank" class="btn btn-primary m-1">positioning</a>
+						<a href="CHAPTER/chapter4/positioning2.html" target="_blank" class="btn btn-primary m-1">positioning2</a>
+						<a href="CHAPTER/chapter4/user_absolute.html" target="_blank" class="btn btn-primary m-1">user_absolute</a>
+						<a href="CHAPTER/chapter4/user_relative.html" target="_blank" class="btn btn-primary m-1">user_relative</a>
+						<a href="CHAPTER/chapter4/width.html" target="_blank" class="btn btn-primary m-1">width</a>
+					</div>
+				</div>
+			</div>
+			<div class="card">
+				<div class="card-header" id="headingFour">
+					<h2 class="mb-0">
+						<button class="btn assigments collapsed" type="button" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+							Chapter 5
+						</button>
+					</h2>
+				</div>
+				<div id="collapseFour" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
+					<div class="card-body">
+						<a href="CHAPTER/chapter5/animation.html" target="_blank" class="btn btn-primary m-1">animation</a>
+						<a href="CHAPTER/chapter5/boxshadow.html" target="_blank" class="btn btn-primary m-1">boxshadow</a>
+						<a href="CHAPTER/chapter5/embeddedfonts.html" target="_blank" class="btn btn-primary m-1">embeddedfonts</a>
+						<a href="CHAPTER/chapter5/fblm.html" target="_blank" class="btn btn-primary m-1">fblm</a>
+						<a href="CHAPTER/chapter5/imageborder.html" target="_blank" class="btn btn-primary m-1">imageborder</a>
+						<a href="CHAPTER/chapter5/lineargradient.html" target="_blank" class="btn btn-primary m-1">lineargradient</a>
+						<a href="CHAPTER/chapter5/mediaqueries.html" target="_blank" class="btn btn-primary m-1">mediaqueries</a>
+						<a href="CHAPTER/chapter5/meltingimages.html" target="_blank" class="btn btn-primary m-1">meltingimages</a>
+						<a href="CHAPTER/chapter5/multicolumns.html" target="_blank" class="btn btn-primary m-1">multicolumns</a>
+						<a href="CHAPTER/chapter5/multiplebackgrounds.html" target="_blank" class="btn btn-primary m-1">multiplebackgrounds</a>
+						<a href="CHAPTER/chapter5/radialgradient.html" target="_blank" class="btn btn-primary m-1">radialgradient</a>
+						<a href="CHAPTER/chapter5/reflection.html" target="_blank" class="btn btn-primary m-1">reflection</a>
+						<a href="CHAPTER/chapter5/roundedcorners.html" target="_blank" class="btn btn-primary m-1">roundedcorners</a>
+						<a href="CHAPTER/chapter5/skew.html" target="_blank" class="btn btn-primary m-1">skew</a>
+						<a href="CHAPTER/chapter5/textshadow.html" target="_blank" class="btn btn-primary m-1">textshadow</a>
+						<a href="CHAPTER/chapter5/textstroke.html" target="_blank" class="btn btn-primary m-1">textstroke</a>
+						<a href="CHAPTER/chapter5/transistions.html" target="_blank" class="btn btn-primary m-1">transistions</a>
+					</div>
+				</div>
+			</div>
+			<div class="card">
+				<div class="card-header" id="headingFive">
+					<h2 class="mb-0">
+						<button class="btn assigments collapsed" type="button" data-toggle="collapse" data-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+							Chapter 6
+						</button>
+					</h2>
+				</div>
+				<div id="collapseFive" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
+					<div class="card-body">
+						<a href="CHAPTER/chapter6/addition.html" target="_blank" class="btn btn-primary m-1">addition</a>
+						<a href="CHAPTER/chapter6/average.html" target="_blank" class="btn btn-primary m-1">average</a>
+						<a href="CHAPTER/chapter6/product.html" target="_blank" class="btn btn-primary m-1">product</a>
+						<a href="CHAPTER/chapter6/welcome.html" target="_blank" class="btn btn-primary m-1">welcome</a>
+						<a href="CHAPTER/chapter6/welcome2.html" target="_blank" class="btn btn-primary m-1">welcome2</a>
+						<a href="CHAPTER/chapter6/welcome3.html" target="_blank" class="btn btn-primary m-1">welcome3</a>
+						<a href="CHAPTER/chapter6/welcome4.html" target="_blank" class="btn btn-primary m-1">welcome4</a>
+						<a href="CHAPTER/chapter6/welcome5.html" target="_blank" class="btn btn-primary m-1">welcome5</a>
+					</div>
+				</div>
+			</div>
+			</div>
+			<div class="col-md-4" style="height: 160px;">
+				
+			
+			<div class="card">
+				<div class="card-header" id="headingSix">
+					<h2 class="mb-0">
+						<button class="btn assigments collapsed" type="button" data-toggle="collapse" data-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
+							Chapter 7
+						</button>
+					</h2>
+				</div>
+				<div id="collapseSix" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
+					<div class="card-body">
+						<a href="CHAPTER/chapter7/analysis.html" target="_blank" class="btn btn-primary m-1">analysis</a>
+						<a href="CHAPTER/chapter7/average.html" target="_blank" class="btn btn-primary m-1">average</a>
+						<a href="CHAPTER/chapter7/average2.html" target="_blank" class="btn btn-primary m-1">average2</a>
+						<a href="CHAPTER/chapter7/ex08_05.html" target="_blank" class="btn btn-primary m-1">ex08_05</a>
+						<a href="CHAPTER/chapter7/increment.html" target="_blank" class="btn btn-primary m-1">increment</a>
+					</div>
+				</div>
+			</div>
+			<div class="card">
+				<div class="card-header" id="headingEight">
+					<h2 class="mb-0">
+						<button class="btn assigments collapsed" type="button" data-toggle="collapse" data-target="#collapseEight" aria-expanded="false" aria-controls="collapseEight">
+							Chapter 9
+						</button>
+					</h2>
+				</div>
+				<div id="collapseEight" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
+					<div class="card-body">
+						<a href="CHAPTER/chapter9/craps.html" target="_blank" class="btn btn-primary m-1">craps</a>
+						<a href="CHAPTER/chapter9/CrapsRules.html" target="_blank" class="btn btn-primary m-1">CrapsRules</a>
+						<a href="CHAPTER/chapter9/cube.html" target="_blank" class="btn btn-primary m-1">cube</a>
+						<a href="CHAPTER/chapter9/FactorialTest.html" target="_blank" class="btn btn-primary m-1">FactorialTest</a>
+						<a href="CHAPTER/chapter9/maximum.html" target="_blank" class="btn btn-primary m-1">maximum</a>
+						<a href="CHAPTER/chapter9/RandomInt.html" target="_blank" class="btn btn-primary m-1">RandomInt</a>
+						<a href="CHAPTER/chapter9/rollddice.html" target="_blank" class="btn btn-primary m-1">rollddice</a>					
+						<a href="CHAPTER/chapter9/RollDice.html" target="_blank" class="btn btn-primary m-1">RollDice</a>
+						<a href="CHAPTER/chapter9/scoping.html" target="_blank" class="btn btn-primary m-1">scoping</a>
+						<a href="CHAPTER/chapter9/SquareInt.html" target="_blank" class="btn btn-primary m-1">SquareInt</a>
+						<a href="CHAPTER/chapter9/volume.html" target="_blank" class="btn btn-primary m-1">volume</a>
+					</div>
+				</div>
+			</div>
+			<div class="card">
+				<div class="card-header" id="headingSeven">
+					<h2 class="mb-0">
+						<button class="btn assigments collapsed" type="button" data-toggle="collapse" data-target="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
+							Chapter 8
+						</button>
+					</h2>
+				</div>
+				<div id="collapseSeven" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
+					<div class="card-body">
+						<a href="CHAPTER/chapter8/BreakTest.html" target="_blank" class="btn btn-primary m-1">BreakTest</a>
+						<a href="CHAPTER/chapter8/ContinueTest.html" target="_blank" class="btn btn-primary m-1">ContinueTest</a>
+						<a href="CHAPTER/chapter8/DoWhileTest.html" target="_blank" class="btn btn-primary m-1">DoWhileTest</a>
+						<a href="CHAPTER/chapter8/ForCounter.html" target="_blank" class="btn btn-primary m-1">ForCounter</a>
+						<a href="CHAPTER/chapter8/Interest.html" target="_blank" class="btn btn-primary m-1">Interest</a>
+						<a href="CHAPTER/chapter8/switchTest.html" target="_blank" class="btn btn-primary m-1">switchTest</a>
+						<a href="CHAPTER/chapter8/WhileCounter.html" target="_blank" class="btn btn-primary m-1">WhileCounter</a>
+					</div>
+				</div>
+			</div>
+			<!----></div>
+			<div class="col-md-4">
+				
+			<div class="card">
+				<div class="card-header" id="headingNine">
+					<h2 class="mb-0">
+						<button class="btn assigments collapsed" type="button" data-toggle="collapse" data-target="#collapseNine" aria-expanded="false" aria-controls="collapseNine">
+							Chapter 10
+						</button>
+					</h2>
+				</div>
+				<div id="collapseNine" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
+					<div class="card-body">
+						<a href="CHAPTER/chapter10/InitArray.html" target="_blank" class="btn btn-primary m-1">InitArray</a>
+						<a href="CHAPTER/chapter10/InitArray2.html" target="_blank" class="btn btn-primary m-1">InitArray2</a>
+						<a href="CHAPTER/chapter10/InitArray3.html" target="_blank" class="btn btn-primary m-1">InitArray3</a>
+						<a href="CHAPTER/chapter10/PassAraay.html" target="_blank" class="btn btn-primary m-1">PassAraay</a>
+						<a href="CHAPTER/chapter10/RollDice.html" target="_blank" class="btn btn-primary m-1">RollDice</a>
+						<a href="CHAPTER/chapter10/RandomPicture.html" target="_blank" class="btn btn-primary m-1">RandomPicture</a>
+						<a href="CHAPTER/chapter10/search.html" target="_blank" class="btn btn-primary m-1">search</a>
+						<a href="CHAPTER/chapter10/Sort.html" target="_blank" class="btn btn-primary m-1">Sort</a>
+					</div>
+				</div>
+			</div>
+			<div class="card">
+				<div class="card-header" id="headingTen">
+					<h2 class="mb-0">
+						<button class="btn assigments collapsed" type="button" data-toggle="collapse" data-target="#collapseTen" aria-expanded="false" aria-controls="collapseTen">
+							Chapter 11
+						</button>
+					</h2>
+				</div>
+				<div id="collapseTen" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
+					<div class="card-body">
+						<a href="CHAPTER/chapter11/CharacterProcessing.html" target="_blank" class="btn btn-primary m-1">CharacterProcessing</a>
+						<a href="CHAPTER/chapter11/DateTime.html" target="_blank" class="btn btn-primary m-1">DateTime</a>
+						<a href="CHAPTER/chapter11/FavoriteTwitterSearchs.html" target="_blank" class="btn btn-primary m-1">FavoriteTwitterSearchs</a>
+						<a href="CHAPTER/chapter11/SearchingStrings.html" target="_blank" class="btn btn-primary m-1">SearchingStrings</a>
+						<a href="CHAPTER/chapter11/SplitAndSubString.html" target="_blank" class="btn btn-primary m-1">SplitAndSubString</a>
+					</div>
+				</div>
+			</div>
+			<div class="card">
+				<div class="card-header" id="headingEleven">
+					<h2 class="mb-0">
+						<button class="btn assigments collapsed" type="button" data-toggle="collapse" data-target="#collapseEleven" aria-expanded="false" aria-controls="collapseEleven">
+							Chapter 12
+						</button>
+					</h2>
+				</div>
+				<div id="collapseEleven" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
+					<div class="card-body">
+						<a href="CHAPTER/chapter12/collections.html" target="_blank" class="btn btn-primary m-1">Collections</a>
+						<a href="CHAPTER/chapter12/coverviewer.html" target="_blank" class="btn btn-primary m-1">Coverviewer</a>
+						<a href="CHAPTER/chapter12/dom.html" target="_blank" class="btn btn-primary m-1">Dom</a>
+						<a href="CHAPTER/chapter12/domtree.html" target="_blank" class="btn btn-primary m-1">Domtree</a>
+						<a href="CHAPTER/chapter12/dynamicstyle.html" target="_blank" class="btn btn-primary m-1">Dynamicstyle</a>
+					</div>
+				</div>
+			</div>
+			<div class="card">
+				<div class="card-header" id="headingTwelve">
+					<h2 class="mb-0">
+						<button class="btn assigments collapsed" type="button" data-toggle="collapse" data-target="#collapseTwelve" aria-expanded="false" aria-controls="collapseTwelve">
+							Chapter 13
+						</button>
+					</h2>
+				</div>
+				<div id="collapseTwelve" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
+					<div class="card-body">
+						<a href="CHAPTER/chapter13/bubbling.html" target="_blank" class="btn btn-primary m-1">Bubbling</a>
+						<a href="CHAPTER/chapter13/draw.html" target="_blank" class="btn btn-primary m-1">Draw</a>
+						<a href="CHAPTER/chapter13/focusblur.html" target="_blank" class="btn btn-primary m-1">Focusblur</a>
+						<a href="CHAPTER/chapter13/mouseoverout.html" target="_blank" class="btn btn-primary m-1">Mouseoverout</a>
+						<a href="CHAPTER/chapter13/onload.html" target="_blank" class="btn btn-primary m-1">Onload</a>
+					</div>
+				</div>
+			</div>
+			<div class="card">
+				<div class="card-header" id="headingThirteen">
+					<h2 class="mb-0">
+						<button class="btn assigments collapsed" type="button" data-toggle="collapse" data-target="#collapseThirteen" aria-expanded="false" aria-controls="collapseThirteen">
+							Chapter 14
+						</button>
+					</h2>
+				</div>
+				<div id="collapseThirteen" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
+					<div class="card-body">
+						<a href="CHAPTER/chapter14/alpha.html" target="_blank" class="btn btn-primary m-1">Alpha</a>
+						<a href="CHAPTER/chapter14/bexiercurves.html" target="_blank" class="btn btn-primary m-1">Bexiercurves</a>
+						<a href="CHAPTER/chapter14/cannon.html" target="_blank" class="btn btn-primary m-1">Cannon</a>
+						<a href="CHAPTER/chapter14/drawingarcs.html" target="_blank" class="btn btn-primary m-1">Drawingarcs</a>
+						<a href="CHAPTER/chapter14/drawrectangle.html" target="_blank" class="btn btn-primary m-1">Drawrectangle</a>
+						<a href="CHAPTER/chapter14/ellipse.html" target="_blank" class="btn btn-primary m-1">Ellipse</a>
+						<a href="CHAPTER/chapter14/image.html" target="_blank" class="btn btn-primary m-1">Image</a>
+						<a href="CHAPTER/chapter14/imagemanipulation.html" target="_blank" class="btn btn-primary m-1">Imagemanipulation</a>
+						<a href="CHAPTER/chapter14/images.html" target="_blank" class="btn btn-primary m-1">Images</a>
+						<a href="CHAPTER/chapter14/lineargradient.html" target="_blank" class="btn btn-primary m-1">Lineargradient</a>
+						<a href="CHAPTER/chapter14/lines.html" target="_blank" class="btn btn-primary m-1">Lines</a>
+						<a href="CHAPTER/chapter14/pattern.html" target="_blank" class="btn btn-primary m-1">Pattern</a>
+						<a href="CHAPTER/chapter14/radialgradient.html" target="_blank" class="btn btn-primary m-1">Radialgradient</a>
+
+					</div>
+				</div>
+			</div>
+			</div>
+			
+			
+		</div>
+
+	</div>	<!-- content-block -->
+	<div class="credits container text-center m-0-auto
+
+">
+		<a href="html.html" target="_blank"><button type="button" class="btn btn-outline-success">HTML</button></a>
+		<a href="html-css.html" target="_blank"><button type="button" class="btn btn-outline-success">HTML &amp; CSS</button></a>
+		<a href="index.html" target="_blank"><button type="button" class="btn btn-outline-success">BOOTSTRAP</button></a>
+	</div>
+
+
+
+
+
+
+	<div class="container">
+		<section class="main-section contact" id="contact">
+
+			<div class="row">
+				<div class="col-lg-6 col-sm-7 wow fadeInLeft">
+					<div class="contact-info-box address clearfix">
+						<h3><i class=" icon-map-marker"></i>Address:</h3>
+						<span>113 Ramiz Cerrnica,<br>Perroi i Njelmet, Prishtine, 10000.</span>
+					</div>
+					<div class="contact-info-box phone clearfix">
+						<h3><i class="fa fa-phone"></i>Phone:</h3>
+						<span>00383-44-630-406</span>
+					</div>
+					<div class="contact-info-box email clearfix">
+						<h3><i class="fa fa-pencil"></i>email:</h3>
+						<div style="display: flex;flex-direction: column;">
+							<span>
+								asllanidardan@gmail.com
+							</span>
+							<span style="margin-left: 80px;">
+								&amp;
+							</span>
+							<span>
+								dardan.asllani@live.com
+							</div>
+						</div>
+						<div class="contact-info-box hours clearfix">
+							<h3><i class="fa fa-clock-o"></i>Hours:</h3>
+							<span><strong>Monday - Thursday:</strong> 9am - 7pm<br><strong>Friday:</strong> Party?<br><strong>Saturday - Sunday:</strong> Best not to ask.</span>
+						</div>
+						<ul class="social-link">
+							<li class="twitter"><a href="https://twitter.com/dardan_asllani" target="_blank"><i class="fa fa-twitter"></i></a></li>
+							<li class="facebook"><a href="https://facebook.com/dardan.asllani2"  target="_blank"><i class="fa fa-facebook"></i></a></li>
+							<li class="snapchat"><a href="https://www.snapchat.com/add/dardan.asllanni"  target="_blank"><i class="fa fa-snapchat"></i></a></li>
+							<li class="gplus"><a href="mailto:asllanidardan@gmail.com" target="_blank"><i class="fa fa-paper-plane"></i></a></li>
+							<li class="instagram"><a href="https://www.instagram.com/dardan.asllanni" target="_blank"><i class="fa fa-instagram"></i></a></li>
+						</ul>
+					</div>
+					<div class="col-lg-6 col-sm-5 wow fadeInUp delay-05s">
+						<div class="form">
+
+							<div id="sendmessage">Your message has been sent. Thank you!</div>
+							<div id="errormessage"></div>
+							<form action="" method="post" role="form" class="contactForm">
+								<div class="form-group">
+									<input type="text" name="name" class="form-control input-text" id="name" placeholder="Your Name" data-rule="minlen:3" data-msg="Please enter at least 3 chars" />
+									<div class="validation"></div>
+								</div>
+								<div class="form-group">
+									<input type="email" class="form-control input-text" name="email" id="email" placeholder="Your Email" data-rule="email" data-msg="Please enter a valid email" />
+									<div class="validation"></div>
+								</div>
+								<div class="form-group">
+									<input type="text" class="form-control input-text" name="subject" id="subject" placeholder="Subject" data-rule="minlen:4" data-msg="Please enter at least 8 chars of subject" />
+									<div class="validation"></div>
+								</div>
+								<div class="form-group">
+									<textarea class="form-control input-text text-area" name="message" rows="5" data-rule="required" data-msg="Please write something for us" placeholder="Message"></textarea>
+									<div class="validation"></div>
+								</div>
+
+								<div class="text-center"><button type="submit" class="input-btn">Send Message</button></div>
+							</form>
+						</div>
+					</div>
+				</div>
+
+
+			</section>
+		</div>
+		<footer class="footer">
+			<div class="container">
+				<div class="footer-logo"><a href="#"><img src="images/llog.png" alt=""></a></div>
+				<span class="copyright">&copy; Dardan Asllani. Reserved</span>
+
+			</div>
+		</footer>
+
+
+		<script type="text/javascript">
+			$(document).ready(function(e) {
+
+				$('#test').scrollToFixed();
+				$('.res-nav_click').click(function() {
+					$('.main-nav').slideToggle();
+					return false
+
+				});
+
+				$('.Portfolio-box').magnificPopup({
+					delegate: 'a',
+					type: 'image'
+				});
+
+			});
+		</script>
+
+		<script>
+			wow = new WOW({
+				animateClass: 'animated',
+				offset: 100
+			});
+			wow.init();
+		</script>
+
+
+		<script type="text/javascript">
+			$(window).load(function() {
+
+				$('.main-nav li a, .servicelink').bind('click', function(event) {
+					var $anchor = $(this);
+
+					$('html, body').stop().animate({
+						scrollTop: $($anchor.attr('href')).offset().top - 102
+					}, 1500, 'easeInOutExpo');
+
+					$('html, body').stop().animate({
+						scrollTop: $($anchor.attr('href')).offset().top
+					}, 1000);
+
+					if ($(window).width() < 768) {
+						$('.main-nav').hide();
+					}
+					event.preventDefault();
+				});
+			})
+		</script>
+
+		<script type="text/javascript">
+			$(window).load(function() {
+
+
+				var $container = $('.portfolioContainer'),
+				$body = $('body'),
+				colW = 375,
+				columns = null;
+
+
+				$container.isotope({
+				// disable window resizing
+				resizable: true,
+				masonry: {
+					columnWidth: colW
+				}
+			});
+
+				$(window).smartresize(function() {
+				// check if columns has changed
+				var currentColumns = Math.floor(($body.width() - 30) / colW);
+				if (currentColumns !== columns) {
+					// set new column count
+					columns = currentColumns;
+					// apply width to container manually, then trigger relayout
+					$container.width(columns * colW)
+					.isotope('reLayout');
+				}
+
+			}).smartresize(); // trigger resize to set container width
+				$('.portfolioFilter a').click(function() {
+					$('.portfolioFilter .current').removeClass('current');
+					$(this).addClass('current');
+
+					var selector = $(this).attr('data-filter');
+					$container.isotope({
+
+						filter: selector,
+					});
+					return false;
+				});
+
+			});
+		</script>
+
+	</body>
+
+	</html>
